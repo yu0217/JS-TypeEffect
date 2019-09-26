@@ -28,7 +28,7 @@ body{
     height: 20px;
     margin-left: 12px;
     /* infinite 循環 */
-    animation: 0.5s infinite shine;
+    animation: 0.7s infinite shine;
 }
 
 @keyframes shine {
